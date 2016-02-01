@@ -1,0 +1,1 @@
+/home/developers/public_html/webpower/power/app/views/pod_batteries/show.blade.php

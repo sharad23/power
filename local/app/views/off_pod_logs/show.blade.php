@@ -1,0 +1,1 @@
+/home/developers/public_html/webpower/power/app/views/off_pod_logs/show.blade.php

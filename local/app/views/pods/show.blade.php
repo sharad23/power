@@ -1,0 +1,1 @@
+/home/developers/public_html/webpower/power/app/views/pods/show.blade.php
